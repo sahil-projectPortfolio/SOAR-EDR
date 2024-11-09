@@ -26,3 +26,4 @@ This project is a Security Orchestration, Automation, and Response (SOAR) soluti
 4. **Slack Workspace**: [Create or sign in here](https://slack.com).
 5. Basic knowledge of API integrations and workflows.
 
+**Project Walkthrough**: https://www.linkedin.com/posts/rsahil7_cybersecurity-automation-soar-activity-7260954837998084096-h2sy?utm_source=share&utm_medium=member_desktop
